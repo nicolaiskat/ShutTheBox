@@ -3,8 +3,15 @@ using System.Collections.Generic;
 
 namespace ShutTheBox
 {
+    public delegate void playerInst(Player player);
     class Program
     {
+        public static void ShowBoard(Player player)
+        {
+            Console.WriteLine("\nYou have the numbers left below to shut");
+            Console.WriteLine(player.LogBoard());
+            Console.WriteLine("You have the following options\n");
+        }
         static void Main(string[] args)
         {
             //Introduction to game
@@ -32,6 +39,8 @@ namespace ShutTheBox
             {
                 Console.WriteLine($"Welcome to the game {Player.Navn}");
             }
+
+            playerInst pi = new playerInst(ShowBoard);
 
             var GameTrue = true;
             //Game loop
@@ -80,11 +89,7 @@ namespace ShutTheBox
                         }
 
                         //Gameboard as text output |1|2|3|4|5|6|7|8|9|
-                        Console.WriteLine("\nYou have the numbers left below to shut");
-                        Console.WriteLine(Player.LogBoard());
-                        Console.WriteLine("You have the following options\n");
-
-
+                        pi(Player);
 
                         //Intialising game
                         int valg;
@@ -135,7 +140,7 @@ namespace ShutTheBox
                                     break;
                                 }
 
-                                //Next option
+                            //Next option
                             }
                             else if (Player.LogBoard().Contains(Player.Dice1.show().ToString()) &&
                                 Player.LogBoard().Contains(Player.Dice2.show().ToString()))
