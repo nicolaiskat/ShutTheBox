@@ -1,0 +1,15 @@
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/bin/Debug/net5.0/ShutTheBox.deps.json
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/bin/Debug/net5.0/ShutTheBox.runtimeconfig.json
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/bin/Debug/net5.0/ShutTheBox.runtimeconfig.dev.json
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/bin/Debug/net5.0/ShutTheBox.dll
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/bin/Debug/net5.0/ref/ShutTheBox.dll
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/bin/Debug/net5.0/ShutTheBox.pdb
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/obj/Debug/net5.0/ShutTheBox.csproj.AssemblyReference.cache
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/obj/Debug/net5.0/ShutTheBox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/obj/Debug/net5.0/ShutTheBox.AssemblyInfoInputs.cache
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/obj/Debug/net5.0/ShutTheBox.AssemblyInfo.cs
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/obj/Debug/net5.0/ShutTheBox.csproj.CoreCompileInputs.cache
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/obj/Debug/net5.0/ShutTheBox.dll
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/obj/Debug/net5.0/ref/ShutTheBox.dll
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/obj/Debug/net5.0/ShutTheBox.pdb
+/Users/nicolaiskat/Projects/ShutTheBox/ShutTheBox/obj/Debug/net5.0/ShutTheBox.genruntimeconfig.cache

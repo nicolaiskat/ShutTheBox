@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1D88B948-5593-4375-AAE5-FB8503AAFC17}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShutTheBox/Player.cs">
+    <Files>
+      <File FileName="ShutTheBox/Program.cs" Line="75" Column="1" />
+      <File FileName="ShutTheBox/Player.cs" Line="10" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShutTheBox" expanded="True">
+            <Node name="ShutTheBox" expanded="True">
+              <Node name="Player.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ShutTheBox PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
