@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{1D88B948-5593-4375-AAE5-FB8503AAFC17}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShutTheBox/Dice.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShutTheBox/Program.cs">
     <Files>
-      <File FileName="ShutTheBox/Program.cs" Line="31" Column="14" />
+      <File FileName="ShutTheBox/Program.cs" Line="11" Column="76" />
       <File FileName="ShutTheBox/Dice.cs" Line="1" Column="1" />
       <File FileName="ShutTheBox/PairOfDice.cs" Line="1" Column="1" />
     </Files>
@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="ShutTheBox" expanded="True">
             <Node name="ShutTheBox" expanded="True">
-              <Node name="Dice.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
